@@ -1,0 +1,17 @@
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\bin\Debug\net10.0-windows\SUDOKUPROJESİ.exe
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\bin\Debug\net10.0-windows\SUDOKUPROJESİ.deps.json
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\bin\Debug\net10.0-windows\SUDOKUPROJESİ.runtimeconfig.json
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\bin\Debug\net10.0-windows\SUDOKUPROJESİ.dll
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\bin\Debug\net10.0-windows\SUDOKUPROJESİ.pdb
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.Form1.resources
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.csproj.GenerateResource.cache
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.AssemblyInfoInputs.cache
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.AssemblyInfo.cs
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.csproj.CoreCompileInputs.cache
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.dll
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\refint\SUDOKUPROJESİ.dll
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.pdb
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPROJESİ.genruntimeconfig.cache
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\ref\SUDOKUPROJESİ.dll
+C:\Users\Safiye\source\repos\SUDOKUPROJESİ\obj\Debug\net10.0-windows\SUDOKUPR.7E8F3382.Up2Date
